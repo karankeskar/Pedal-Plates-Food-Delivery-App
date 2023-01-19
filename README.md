@@ -3,8 +3,7 @@ With the increasing popularity of food delivery in cities, the traditional telep
 So this project explores and develops a new takeaway app that is easier and more object-oriented than existing apps. The food-delivery app titled Pedal-plates has easy and simple features, like browsing different menus, adding restaurants to your favorites list, and ordering different types of delicacies including starters and desserts as well. The app has a simple UI connected to the database which provides easy maintenance and management of data, it benefits both the customer and the restaurants providing the ordered food. The customer is given the option to choose from a vast selection of food joint and restaurants and order food while the restaurants can receive multiple orders at a time and manage them according to their timestamp thus maximizing the profits by making the work more efficient. 
 
 
-Application Splash Screen :
-![image](https://user-images.githubusercontent.com/40066189/213355466-105e0513-73c5-4e2e-a7da-f1d9f6e593d1.png)
+Application Splash Screen : ![image](https://user-images.githubusercontent.com/40066189/213355466-105e0513-73c5-4e2e-a7da-f1d9f6e593d1.png)
 Application Home Screen :
 ![image](https://user-images.githubusercontent.com/40066189/213355473-7f7185ea-339d-45e0-8534-c4f9f98d06cc.png)
 Application Signup Page :
